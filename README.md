@@ -1,2 +1,2 @@
-# my-first-project
+# About my first project on GitHub
 Il s'agit de mon premier projet sur GitHub...
